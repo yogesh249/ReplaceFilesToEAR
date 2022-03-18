@@ -2,7 +2,7 @@
 This can be used to replace the .class, .js, .jsp into the EAR file
 
 
-#How to open this project in Eclipse/Spring tool suite
+# How to open this project in Eclipse/Spring tool suite
 1. Open STS/Eclipse
 2. File -> Import -> Git -> Projects from Git
 3. Select Clone URI
